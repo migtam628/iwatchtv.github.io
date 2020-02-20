@@ -1,0 +1,2 @@
+(this["webpackJsonpiwatchtv_02-07-20_930pm"]=this["webpackJsonpiwatchtv_02-07-20_930pm"]||[]).push([[5],{394:function(t,n,e){"use strict";e.r(n),e.d(n,"startStatusTap",(function(){return o}));var i=e(51),o=(e(13),function(){var t=window;t.addEventListener("statusTap",(function(){Object(i.g)((function(){var n=t.innerWidth,e=t.innerHeight,o=document.elementFromPoint(n/2,e/2);if(o){var c=o.closest("ion-content");c&&c.componentOnReady().then((function(){Object(i.m)((function(){return c.scrollToTop(300)}))}))}}))}))})}}]);
+//# sourceMappingURL=5.f0dc1ff1.chunk.js.map
